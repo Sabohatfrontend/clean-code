@@ -116,7 +116,7 @@
 }
 
 /* Completed */
-#comp-tasks .task {
+#complete-tasks .task {
   text-decoration: line-through;
   color: #888;
 }
