@@ -1,0 +1,14 @@
+.header {
+  width: 500px;
+  margin: 0 auto;
+  display: block;
+  text-align: right;
+}
+
+.header__img {
+  width: 100%;
+}
+
+.info-link {
+  font-family: fantasy, cursive;
+}
